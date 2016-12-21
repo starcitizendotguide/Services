@@ -1,0 +1,286 @@
+[
+   {
+      "name":"Website",
+      "host":"https://robertsspaceindustries.com"
+   },
+   {
+      "name":"Forums",
+      "host":"https://forums.robertsspaceindustries.com"
+   },
+   {
+      "name":"Manifest",
+      "host":"http://manifest.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #1",
+      "host":"http://1.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #2",
+      "host":"http://2.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #3",
+      "host":"http://3.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #4",
+      "host":"http://4.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #5",
+      "host":"http://5.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #6",
+      "host":"http://6.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #7",
+      "host":"http://7.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #8",
+      "host":"http://8.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #9",
+      "host":"http://9.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #10",
+      "host":"http://10.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #11",
+      "host":"http://11.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #12",
+      "host":"http://12.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #13",
+      "host":"http://13.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #14",
+      "host":"http://14.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #15",
+      "host":"http://15.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #16",
+      "host":"http://16.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #17",
+      "host":"http://17.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #18",
+      "host":"http://18.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #19",
+      "host":"http://19.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #20",
+      "host":"http://20.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #21",
+      "host":"http://21.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #22",
+      "host":"http://22.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #23",
+      "host":"http://23.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #24",
+      "host":"http://24.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #25",
+      "host":"http://25.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #26",
+      "host":"http://26.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #27",
+      "host":"http://27.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #28",
+      "host":"http://28.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #29",
+      "host":"http://29.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #30",
+      "host":"http://30.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #31",
+      "host":"http://31.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #32",
+      "host":"http://32.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #33",
+      "host":"http://33.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #34",
+      "host":"http://34.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #35",
+      "host":"http://35.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #36",
+      "host":"http://36.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #37",
+      "host":"http://37.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #38",
+      "host":"http://38.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #39",
+      "host":"http://39.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #40",
+      "host":"http://40.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #41",
+      "host":"http://41.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #42",
+      "host":"http://42.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #43",
+      "host":"http://43.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #44",
+      "host":"http://44.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #45",
+      "host":"http://45.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #46",
+      "host":"http://46.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #47",
+      "host":"http://47.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #48",
+      "host":"http://48.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #49",
+      "host":"http://49.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #50",
+      "host":"http://50.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #51",
+      "host":"http://51.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #52",
+      "host":"http://52.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #53",
+      "host":"http://53.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #54",
+      "host":"http://54.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #55",
+      "host":"http://55.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #56",
+      "host":"http://56.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #57",
+      "host":"http://57.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #58",
+      "host":"http://58.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #59",
+      "host":"http://59.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #60",
+      "host":"http://60.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #61",
+      "host":"http://61.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #62",
+      "host":"http://62.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #63",
+      "host":"http://63.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"Webseed #64",
+      "host":"http://64.webseed.robertsspaceindustries.com"
+   },
+   {
+      "name":"PTU Website",
+      "host":"https://ptu.cloudimperiumgames.com"
+   },
+  {
+    "name": "Launcher #2",
+    "host": "http://launcher2.robertsspaceindustries.com"
+  },
+  {
+      "name":"Public Universe",
+      "host":"public.universe.robertsspaceindustries.com"
+   },
+   {
+      "name":"Public Test Universe",
+      "host":"ptu.universe.robertsspaceindustries.com"
+   }
+]
